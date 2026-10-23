@@ -202,7 +202,7 @@ const res = await fetch(`${API}/orders`, {
 
     <main>
       <section className="hero">
-        <div className="hero-copy"><div className="eyebrow"><span/> CURATED FOR YOUR EVERYDAY</div>
+        <div className="hero-copy"><div className="eyebrow"><span/>EVERYDAY</div>
           <h1>Good things.<br/><em>Better living.</em></h1>
           <p>Thoughtfully picked essentials for your work, your weekends, and everything in between.</p>
           <a className="primary-button" href="#shop">Explore collection <ArrowRight size={17}/></a>
